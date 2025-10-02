@@ -9,7 +9,6 @@ I am a recent graduate with a profound interest in technology and a dedication t
 I am a Computer Science student driven by cybersecurity, with a focus on SOC operations and Blue Team defense. Eager to apply my skills in threat detection and incident response as a Tier 1 Analyst. Exploring tools and projects in security monitoring, forensics, and network protection. Let's connect on building a safer digital world!
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
